@@ -1,0 +1,37 @@
+#margin_up {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#background-red {
+    background-color: rgba(241, 44, 44, 0.938);
+    margin-top: 0;    
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#no_margin {
+    margin: 0;
+    margin-top: 15px;
+    border-image-width: 50%;
+    width: 100px;
+    text-align: center;
+    background-color: red;
+}
+
+#pic {
+    background-image: blue;
+    text-align: end;
+    width: 60px;
+    margin-left: 60px;
+}
+
+#blue_part {
+    margin: 0;
+}
