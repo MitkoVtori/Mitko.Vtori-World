@@ -2,8 +2,8 @@
 
 This is my first website.
 It was just a school homework but after I made it I decided to create something cool.
-I'll send some parts ofr the code here.
-for now I won't leave a link to it, I would like to finish it.
+I'll send some parts of the code here.
+For now I won't leave a link to the site, I would like to finish it.
 
 the code is mainaly HTML & CSS but maybe in the feature, I will add real languages like JavaScript, Python & C#.
 
