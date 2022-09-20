@@ -16,7 +16,10 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
 ![Certy_down_part_final](https://user-images.githubusercontent.com/112943652/191248625-e73c61aa-76a9-448a-9327-57f248af39a7.png)
 
 ## Workers
-<a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
-
+<ul>
+  <li>
+    <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
+  </li>
+<ul>
 
 ![html-css](https://user-images.githubusercontent.com/112943652/191248257-4d16bb65-d42c-46c1-ae31-915e0624d577.png)
