@@ -21,5 +21,7 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
     <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
   </li>
 <ul>
-   
-<img src="https://user-images.githubusercontent.com/112943652/191248257-4d16bb65-d42c-46c1-ae31-915e0624d577.png">
+ <br>
+  <br>
+  
+<img src="https://user-images.githubusercontent.com/112943652/191248257-4d16bb65-d42c-46c1-ae31-915e0624d577.png" style="margin-left: 30px">
