@@ -15,4 +15,6 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
 ![Certy_upper_part_end](https://user-images.githubusercontent.com/112943652/191248602-aeabc77d-f2fe-4c33-ae1f-1ff1f382d9a6.png)
 ![Certy_down_part_final](https://user-images.githubusercontent.com/112943652/191248625-e73c61aa-76a9-448a-9327-57f248af39a7.png)
 
-   ![html-css](https://user-images.githubusercontent.com/112943652/191248257-4d16bb65-d42c-46c1-ae31-915e0624d577.png)
+## Workers
+<a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a> Mitko.Vtori
+![html-css](https://user-images.githubusercontent.com/112943652/191248257-4d16bb65-d42c-46c1-ae31-915e0624d577.png)
