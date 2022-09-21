@@ -13,13 +13,19 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
     <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
   </li>
 <ul>
+<p> Searching partner with knowladge in JavaScript and/or HTML & CSS.
+<br>
+Message me <a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog/issues/new">here</a>
+</p>
 
 # Main page
-![upper_part_end](https://user-images.githubusercontent.com/112943652/191248311-5ff6da95-f6cd-41e6-8aaa-a1d3862664f1.png)
+![c](https://user-images.githubusercontent.com/112943652/191476684-ab13a869-301a-4e3f-8c66-fd678825dbe7.png)
 ![down_part](https://user-images.githubusercontent.com/112943652/191248370-c79a6018-e62e-48d8-96c5-fe948ddf348d.png)
 
 # Certificates
-![Certy_upper_part_end](https://user-images.githubusercontent.com/112943652/191248602-aeabc77d-f2fe-4c33-ae1f-1ff1f382d9a6.png)
+![a](https://user-images.githubusercontent.com/112943652/191476804-f3a1bb47-98f3-4cc7-a7a4-db636156403a.png)
 ![Certy_down_part_final](https://user-images.githubusercontent.com/112943652/191248625-e73c61aa-76a9-448a-9327-57f248af39a7.png)
 
-   <img src="https://user-images.githubusercontent.com/112943652/191248257-4d16bb65-d42c-46c1-ae31-915e0624d577.png">
+# Progress
+![Screenshot 2022-09-21 125307](https://user-images.githubusercontent.com/112943652/191476973-d009cf53-3f35-43fa-aa97-07ac9dc5fc0e.png)
+![d](https://user-images.githubusercontent.com/112943652/191477006-43989e60-4570-4a4f-933e-0dea9b5dc3d0.png)
