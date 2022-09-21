@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html style="background-color: rgba(27, 25, 25, 0.986);">
+    
+    <head>
+        <title>Mitko.Vtori Progress</title>
+        <link rel="icon" type="image/x-icon" href="**************************************">
+    </head>
+    <body style="margin: 0;">
+        <h3 style="margin: 0; background-color: rgb(0, 0, 0);">
+            <a href="********************************************************************************************************"><img src="************************************" style="margin-left: 15%; width: 55px;"></a>
+            <a href="***************************************************************************************************" style="margin-left: 8%; font-size: 30px; color: rgb(27, 164, 255);">Certificates</a>
+            <a href="*********************************************************************************************" style="margin-left: 1%; font-size: 30px; color: rgb(27, 164, 255);">Progress</a>
+        </h3>
+    </body>
+    <body style="margin: 0;">
+          <h1 style="color: white; text-align: center; margin: 0; background-color: rgba(17, 17, 17, 0.966);">
+            <img src="*******************************" style="width: 100px;"> Welcome to Progress!
+            <br>
+            The place where you'll see my statistics.
+          </h1>
+             <h2 style="margin: 0; font-size: 50px;">
+                <br>
+                <br>
+                <a href="https://github.com/MitkoVtori" style="color: rgb(199, 23, 199); margin-left: 150px;">GitHub</a><text style="margin-left: 1000px; color: rgb(199, 23, 199)">Website Progress</text>
