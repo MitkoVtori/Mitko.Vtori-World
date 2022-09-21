@@ -13,7 +13,7 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
     <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
   </li>
 <ul>
-<p> Searching partner with knowladge in JavaScript and/or HTML & CSS.
+<p> Searching partner with knowledge in JavaScript and/or HTML & CSS.
 <br>
 Message me <a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog/issues/new">here</a>
 </p>
