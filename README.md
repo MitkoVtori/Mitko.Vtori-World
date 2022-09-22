@@ -16,7 +16,7 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
     <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a> <strong>code, design & administration</strong>
   </li>
   <li>
-  <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a> design & administration
+  <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a> <strong>design & administration</strong>
 <ul>
 <br>
 <br>
