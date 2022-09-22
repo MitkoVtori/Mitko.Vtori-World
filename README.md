@@ -18,7 +18,7 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
 <ul>
 <p> Searching partner with knowledge in JavaScript and/or HTML & CSS.
 <br>
-Message me <a href="https://github.com/MitkoVtori/Mitko.Vtori-personal-blog/issues/new">here</a>
+Message me <a href="https://github.com/MitkoVtori/Message-me">here</a>
 </p>
 
 # Main page
