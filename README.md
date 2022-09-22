@@ -15,11 +15,10 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
   <li>
     <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
   </li>
+  <li>
+  <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a>
 <ul>
-<p> Searching partner with knowledge in JavaScript and/or HTML & CSS.
-<br>
-Message me <a href="https://github.com/MitkoVtori/Message-me">here</a>
-</p>
+
 
 ![image](https://user-images.githubusercontent.com/112943652/191708715-3fc79913-d457-4136-8ade-29352904b58a.png)
 
