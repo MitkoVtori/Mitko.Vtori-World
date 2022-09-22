@@ -21,6 +21,9 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
 Message me <a href="https://github.com/MitkoVtori/Message-me">here</a>
 </p>
 
+![image](https://user-images.githubusercontent.com/112943652/191708715-3fc79913-d457-4136-8ade-29352904b58a.png)
+
+
 # Main page
 ![c](https://user-images.githubusercontent.com/112943652/191476684-ab13a869-301a-4e3f-8c66-fd678825dbe7.png)
 ![down_part](https://user-images.githubusercontent.com/112943652/191248370-c79a6018-e62e-48d8-96c5-fe948ddf348d.png)
