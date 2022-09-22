@@ -13,10 +13,10 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
 ## Workers
 <ul>
   <li>
-    <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a>
+    <a href="https://github.com/MitkoVtori">Dimitar Dimitrov</a> ### code, design & administration
   </li>
   <li>
-  <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a>
+  <a href="https://github.com/HackerstoyanovBG">Yoan Stoyanov</a> design & administration
 <ul>
 <br>
 <br>
