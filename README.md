@@ -42,7 +42,7 @@ The code is mainaly HTML & CSS but maybe in the feature, I will add real languag
 
 # School
 ![Screenshot 2022-09-22 145524](https://user-images.githubusercontent.com/112943652/191744962-44e4a195-15dd-4b18-8516-42272f0b25b3.png)
-![Screenshot 2022-09-22 145619](https://user-images.githubusercontent.com/112943652/191744980-2e8f00a6-1250-4991-8f03-9db613ec917d.png)
+![Screenshot 2022-09-23 093017](https://user-images.githubusercontent.com/112943652/191904285-710af8d4-87c2-43ed-81d8-d27b9278e200.png)
 ![Screenshot 2022-09-22 145716](https://user-images.githubusercontent.com/112943652/191745012-8dd0a3a8-d22d-43fe-b965-4926b7dc27df.png)
 
 
