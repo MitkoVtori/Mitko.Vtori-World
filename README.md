@@ -17,6 +17,9 @@ For now I won't leave a link to the site, I would like to finish it.
          when the game start, you have to click on the screen and use your keyboard
        <p>
   </li>
+  <li>
+     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-FlappyBird#index.html">FlappyBird</a>
+  </li>
 </ul>
 <br>
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 80px;"/></a>
