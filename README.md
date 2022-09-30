@@ -12,7 +12,10 @@ For now I won't leave a link to the site, I would like to finish it.
 ### List games:
 <ul>
    <li>
-     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1">Snake game</a> <p style="font-size: 30px">h<p>
+     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1">Snake game</a> 
+       <li>
+         when the game start, you have to click on the screen and use your keyboard
+       </li>
   </li>
 </ul>
 <br>
