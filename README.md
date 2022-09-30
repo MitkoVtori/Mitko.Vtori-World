@@ -4,8 +4,9 @@ This is my first website.
 It was just a school homework but after I made it I decided to create something cool.
 I'll send some parts of the code here.
 For now I won't leave a link to the site, I would like to finish it.
-<a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1"><img src="file:///C:/Users/PC-Admin/Pictures/Snake.png" /></a>
-
+<br>
+<a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1"> <img src="file:///C:/Users/PC-Admin/Pictures/Snake.png" style="width: 50px" /></a>
+<br>
 ### the games page ▼ ▼ ▼
 [![Watch the video](https://www.ryadel.com/wp-content/uploads/2021/02/youtube-video-embed-website-html-lightbox-iframe.jpg)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page ▲ ▲ ▲
