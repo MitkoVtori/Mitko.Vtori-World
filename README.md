@@ -5,7 +5,7 @@ It was just a school homework but after I made it I decided to create something 
 I'll send some parts of the code here.
 For now I won't leave a link to the site, I would like to finish it.
 
-The code is mainaly HTML & CSS but maybe in the feature, I will add real languages like JavaScript, Python & C#.
+https://www.youtube.com/watch?v=evJbAwi47F0
 <br>
 <br>
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 80px;"/></a>
