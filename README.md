@@ -4,13 +4,13 @@ This is my first website.
 It was just a school homework but after I made it I decided to create something cool.
 I'll send some parts of the code here.
 For now I won't leave a link to the site, I would like to finish it.
-<br>
-<a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1"> <img src="file:///C:/Users/PC-Admin/Pictures/Snake.png" style="width: 550px" /></a>
-<br>
 ### the games page ▼ ▼ ▼
 [![Watch the video](https://www.ryadel.com/wp-content/uploads/2021/02/youtube-video-embed-website-html-lightbox-iframe.jpg)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page ▲ ▲ ▲
 <br>
+<br>
+<br>
+<a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1"> <img src="file:///C:/Users/PC-Admin/Pictures/Snake.png" style="width: 550px" /></a>
 <br>
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 80px;"/></a>
 
