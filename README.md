@@ -10,7 +10,7 @@ For now I won't leave a link to the site, I would like to finish it.
 <br>
 <br>
 <br>
-<a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1"> <img src="file:///C:/Users/PC-Admin/Pictures/Snake.png" style="width: 550px" /></a>
+<img src="file:///C:/Users/PC-Admin/Pictures/Snake.png" style="width: 550px" />
 <br>
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 80px;"/></a>
 
