@@ -12,7 +12,7 @@ For now I won't leave a link to the site, I would like to finish it.
 ### List games:
 <ul>
    <li>
-     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1">Snake game</a>
+     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1">Snake game</a> <p style="font-size: 30px">h<p>
   </li>
 </ul>
 <br>
