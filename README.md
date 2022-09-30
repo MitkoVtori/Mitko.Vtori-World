@@ -5,7 +5,7 @@ It was just a school homework but after I made it I decided to create something 
 I'll send some parts of the code here.
 For now I won't leave a link to the site, I would like to finish it.
 
-[![Watch the video](file:///C:/Users/PC-Admin/Pictures/Screenshot%202022-09-30%20135101.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
+[![Watch the video](https://i.scdn.co/image/ab67616d0000b27394e0a6c3550c6020b6cd8bf1)](https://www.youtube.com/watch?v=evJbAwi47F0)
 <br>
 <br>
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 80px;"/></a>
