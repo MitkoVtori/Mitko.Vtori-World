@@ -5,7 +5,7 @@ It was just a school homework but after I made it I decided to create something 
 I'll send some parts of the code here.
 For now I won't leave a link to the site, I would like to finish it.
 ### the games page ▼ ▼ ▼
-[![Watch the video](https://www.ryadel.com/wp-content/uploads/2021/02/youtube-video-embed-website-html-lightbox-iframe.jpg)](https://www.youtube.com/watch?v=evJbAwi47F0)
+[![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page ▲ ▲ ▲
 <br>
 
