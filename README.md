@@ -3,7 +3,7 @@
 This is my first website.
 It was just a school project but after I made it, I decided to create something cool.
 <br>
-<a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/" style="font-size: 50px">Click to see the website</a>
+<a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/" style="font-size: 550px">Click to see the website</a>
 <br>
 ### the games page ▼ ▼ ▼
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
