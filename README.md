@@ -10,16 +10,21 @@ It was just a school project but after I made it, I decided to create something 
 ### List games:
 <ul>
    <li>
-     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1">Snake game</a> 
+     <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/Snake">Snake game</a> 
       <ul> 
        <li style="margin-left: 150px">
-         when the game start, you have to click on the screen and use your keyboard
+         when the game start, use your keyboard to play the game. (not working on phones)
        </li>
      </ul>
     <br>
    </li>
   <li>
-     <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-FlappyBird#index.html">FlappyBird</a>
+     <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/FlappyBird">FlappyBird</a>
+      <ul> 
+       <li>
+          working only with mouse.
+       </li>
+     </ul>
   </li>
 </ul>
 <br>
