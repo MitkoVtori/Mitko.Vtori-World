@@ -64,4 +64,4 @@ It was just a school project but after I made it, I decided to create something 
 
 
 
-<a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/><a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/">Click to see the website!</a></a>
+<a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
