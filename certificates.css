@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 p {
     margin-top: 0;
     margin-bottom: 0;
@@ -20,27 +19,4 @@ h3 {
     background-color: rgb(15, 15, 163);
     font-size: 25px;
     color: rgba(255, 255, 255, 0.87);
-=======
-p {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-h1 {
-    color: rgba(247, 244, 78, 0.959);
-    background-color: rgb(250, 186, 197);
-    text-align: center;
-    font-size: 50px;
-    margin: 0;
-}
-h2 {
-    width: 100%;
-    margin: 0;
-    background-color: aqua;
-}
-h3 {
-    margin: 0;
-    background-color: rgb(15, 15, 163);
-    font-size: 25px;
-    color: rgba(255, 255, 255, 0.87);
->>>>>>> 38e5a85a4f1575f4a80bfe3186f1088722237673
 }
