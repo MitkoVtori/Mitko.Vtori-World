@@ -4,9 +4,9 @@ This is my first website.
 It was just a school project but after I made it, I decided to create something cool.
 <br>
 # <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/">Click to see the website</a>
-### the games page ▼ ▼ ▼
+### the games page introduction ▼ ▼ ▼
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
-### the games page ▲ ▲ ▲
+### the games page introduction▲ ▲ ▲
 ### List games:
 <ul>
    <li>
