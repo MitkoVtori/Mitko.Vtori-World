@@ -13,9 +13,11 @@ For now I won't leave a link to the site, I would like to finish it.
 <ul>
    <li>
      <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-Snake?v=1">Snake game</a> 
-       <p style="margin-left: 150px">
+      <ul> 
+       <li style="margin-left: 150px">
          when the game start, you have to click on the screen and use your keyboard
-       <p>
+       </li>
+     </ul>
   </li>
   <li>
      <a href="https://replit.com/@PlayerDMGAMING/MitkoVtori-FlappyBird#index.html">FlappyBird</a>
