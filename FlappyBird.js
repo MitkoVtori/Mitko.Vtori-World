@@ -4,7 +4,7 @@
 <head>
     <title>Mitko.Vtori Flappy Bird</title>
     <link rel="icon" type="image/x-icon" href="images/games.png">
-    <button style="margin-left: 50px; width: 250px; height: 70px; font-size: 55px;"><a href="********************************************" style="color: rgba(0, 0, 0, 0.733);">RELOAD</a></button>
+    <button style="margin-left: 50px; width: 250px; height: 70px; font-size: 55px;"><a href="./FlappyBird" style="color: rgba(0, 0, 0, 0.733);">RELOAD</a></button>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 canvas {
@@ -140,11 +140,11 @@ function accelerate(n) {
 <button onmousedown="accelerate(-1.0)" onmouseup="accelerate(0.20)">ACCELERATE</button>
 <p>Use the ACCELERATE button to stay in the air</p>
 <p>How long can you stay alive?</p>
-<p><strong>Reload the page to continue the game (<a href="******************************************************************************">RELOAD</a>)</strong></p>
+<p><strong>Reload the page to continue the game (<a href="./FlappyBird">RELOAD</a>)</strong></p>
 </body>
-<p style="margin-top: 150px; font-size: 100px;"><a href="***********************************************************************" style="color: rgb(31, 26, 26); background-color: rgb(174, 0, 255);">The game with the snake</a></p>
+<p style="margin-top: 150px; font-size: 100px;"><a href="./Snake" style="color: rgb(31, 26, 26); background-color: rgb(174, 0, 255);">The game with the snake</a></p>
 <br>
-<a href="********************************************************************************"><img src="images/Snake click here.png" style="width: 800px; height: 700"></a>
+<a href="./Snake"><img src="images/Snake click here.png" style="width: 800px; height: 700"></a>
 <br>
 <h4 style="margin-top: 150px; background-color: rgba(31, 29, 29, 0.884);"><p style="color: rgba(31, 29, 29, 0.884);">.</p>
     <br>
