@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
     background-color: rgba(56, 56, 221, 0.788);
 }
@@ -20,4 +21,28 @@ strong {
 canvas {
     width: 650px;
     height: 350px;
+=======
+html {
+    background-color: rgba(56, 56, 221, 0.788);
+}
+body {
+    text-align: center;
+    margin-top: 300px;
+}
+button {
+    width: 210px;
+    height: 60px;
+    font-size: 25px;
+}
+p {
+    font-size: 25px;
+    color: white;
+}
+strong {
+    color: black;
+}
+canvas {
+    width: 650px;
+    height: 350px;
+>>>>>>> 38e5a85a4f1575f4a80bfe3186f1088722237673
 }
