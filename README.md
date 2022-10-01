@@ -1,9 +1,9 @@
 # Mitko.Vtori personal blog
 
 This is my first website.
-It was just a school homework but after I made it I decided to create something cool.
-I'll send some parts of the code here.
-For now I won't leave a link to the site, I would like to finish it.
+It was just a school project but after I made it, I decided to create something cool.
+<a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/">Click to see the website</a>
+<br>
 ### the games page ▼ ▼ ▼
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page ▲ ▲ ▲
@@ -64,4 +64,4 @@ For now I won't leave a link to the site, I would like to finish it.
 
 
 
-<a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
+<a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/><a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/">Click to see the website!</a></a>
