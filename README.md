@@ -26,6 +26,7 @@ It was just a school project but after I made it, I decided to create something 
        </li>
      </ul>
   </li>
+ <br>
  <li>
    <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/TETRIS">Tetris</a>
     <ul>
