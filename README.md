@@ -32,6 +32,7 @@ It was just a school project but after I made it, I decided to create something 
      <li>
      use your keyboard to play(working only with keyboard).
      </li>
+    </ul>
  </li>
 </ul>
 <br>
