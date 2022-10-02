@@ -1,0 +1,38 @@
+html{
+  background-color: rgb(238, 154, 44);
+}
+
+body {
+    font-size: .85em;
+    background-color: rgb(238, 154, 44);
+    color: rgb(44, 167, 238);
+    margin-top: 15%;
+  }
+  
+  h1 {
+    color: rgb(0, 26, 255);
+    text-shadow: 3px 3px 5px rgb(153, 0, 255);
+    font-size: 450%;
+  }
+  
+  .container {
+    width: 412px;
+    margin: 50px auto;
+  }
+  
+  .description {
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 200%;
+  }
+  
+  .tetrisCanvas {
+    box-shadow: 3px 3px 5px #ff006a;
+    outline: none;
+  }
+button {
+  background-color: black;
+  color: #ff006a;
+  font-size: 20px;
+}
