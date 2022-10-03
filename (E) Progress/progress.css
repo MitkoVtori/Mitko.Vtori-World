@@ -1,0 +1,13 @@
+.expandable {
+    background: gray;
+    overflow: hidden; 
+    line-height: 90%;
+    font-size: 145%;
+    text-align: center;
+    transition: all .5s ease-in-out;
+    height: 0;
+   }
+ 
+   .expandable:target {
+      height: 200px;
+  }

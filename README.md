@@ -3,14 +3,14 @@
 This is my first website.
 It was just a school project but after I made it, I decided to create something cool.
 <br>
-# <a href="https://mitkovtori.github.io/Mitko.Vtori-World/">Click to see the website</a>
+# <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/">Click to see the website</a>
 ### the games page introduction ▼ ▼ ▼
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page introduction▲ ▲ ▲
 ### List games:
 <ul>
    <li>
-     <a href="https://mitkovtori.github.io/Mitko.Vtori-World/Snake">Snake game</a> 
+     <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/Snake">Snake game</a> 
       <ul> 
        <li style="margin-left: 150px">
          when the game start, use your keyboard to play the game. (not working on phones)
@@ -19,7 +19,7 @@ It was just a school project but after I made it, I decided to create something 
     <br>
    </li>
   <li>
-     <a href="https://mitkovtori.github.io/Mitko.Vtori-World/FlappyBird">FlappyBird</a>
+     <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/FlappyBird">FlappyBird</a>
       <ul> 
        <li>
           working only with mouse.
@@ -28,7 +28,7 @@ It was just a school project but after I made it, I decided to create something 
   </li>
  <br>
  <li>
-   <a href="https://mitkovtori.github.io/Mitko.Vtori-World/TETRIS">Tetris</a>
+   <a href="https://mitkovtori.github.io/Mitko.Vtori-personal-blog/TETRIS">Tetris</a>
     <ul>
      <li>
      use your keyboard to play(working only with keyboard).
