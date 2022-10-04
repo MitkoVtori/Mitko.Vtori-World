@@ -81,7 +81,6 @@ It was just a school project but after I made it, I decided to create something 
 # Planning School page
 ![Screenshot 2022-09-22 151633](https://user-images.githubusercontent.com/112943652/191744724-d2d76039-d6f3-4760-97a6-4383d83002ca.png)
 ![School idea down part](https://user-images.githubusercontent.com/112943652/191744764-08067988-dc27-4088-9479-68db66ea6814.png)
-![home second middle part](https://user-images.githubusercontent.com/112943652/193805272-48e2fefe-9f71-4f53-9607-430cc1328397.png)
 
 # School
 ![Screenshot 2022-09-22 145524](https://user-images.githubusercontent.com/112943652/191744962-44e4a195-15dd-4b18-8516-42272f0b25b3.png)
