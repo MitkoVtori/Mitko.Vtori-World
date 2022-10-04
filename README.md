@@ -63,8 +63,12 @@ It was just a school project but after I made it, I decided to create something 
 
 
 # Main page
-![Screenshot 2022-09-22 150845](https://user-images.githubusercontent.com/112943652/191743458-06659a0f-46a1-4054-99cf-d89c6ab378ec.png)
-![down_part](https://user-images.githubusercontent.com/112943652/191248370-c79a6018-e62e-48d8-96c5-fe948ddf348d.png)
+![home upper part](https://user-images.githubusercontent.com/112943652/193805123-e053e344-8752-4883-a453-d737747f5cf2.png)
+![home middle part](https://user-images.githubusercontent.com/112943652/193805226-ed47be8e-f90d-4f01-a0e4-7300406aab9d.png)
+![home second middle part](https://user-images.githubusercontent.com/112943652/193805335-374b5efb-48cd-48ba-b01a-15c2bd93a1cf.png)
+![home down part](https://user-images.githubusercontent.com/112943652/193805300-e6224b64-49b0-4e16-9eb4-5971c9cf552f.png)
+
+![games slide down](https://user-images.githubusercontent.com/112943652/193805419-e03621f3-f2f4-41b8-91e0-2c3213b35727.png)
 
 # Certificates
 ![Screenshot 2022-09-22 151021](https://user-images.githubusercontent.com/112943652/191743596-4c51fd62-f1f0-435a-8d0e-1cae4294f4ad.png)
@@ -77,12 +81,16 @@ It was just a school project but after I made it, I decided to create something 
 # Planning School page
 ![Screenshot 2022-09-22 151633](https://user-images.githubusercontent.com/112943652/191744724-d2d76039-d6f3-4760-97a6-4383d83002ca.png)
 ![School idea down part](https://user-images.githubusercontent.com/112943652/191744764-08067988-dc27-4088-9479-68db66ea6814.png)
+![home second middle part](https://user-images.githubusercontent.com/112943652/193805272-48e2fefe-9f71-4f53-9607-430cc1328397.png)
 
 # School
 ![Screenshot 2022-09-22 145524](https://user-images.githubusercontent.com/112943652/191744962-44e4a195-15dd-4b18-8516-42272f0b25b3.png)
 ![Screenshot 2022-09-23 093017](https://user-images.githubusercontent.com/112943652/191904285-710af8d4-87c2-43ed-81d8-d27b9278e200.png)
 ![Screenshot 2022-09-22 145716](https://user-images.githubusercontent.com/112943652/191745012-8dd0a3a8-d22d-43fe-b965-4926b7dc27df.png)
 
+# Games
+![games upper](https://user-images.githubusercontent.com/112943652/193805508-e2bb7d86-c10d-4f1e-84f2-05fe27235005.png)
+![games down](https://user-images.githubusercontent.com/112943652/193805529-6d6d74ed-1e98-4e5b-bd94-9248fa536c1f.png)
 
 
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
