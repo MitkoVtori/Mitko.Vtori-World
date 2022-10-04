@@ -1,0 +1,36 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1 {
+    color: rgba(247, 244, 78, 0.959);
+    background-color: rgb(250, 186, 197);
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+h2 {
+    width: 100%;
+    margin: 0;
+    background-color: aqua;
+}
+h3 {
+    margin: 0;
+    background-color: rgb(15, 15, 163);
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.87);
+}
+
+.expandable {
+    background: gray;
+    overflow: hidden; 
+    line-height: 90%;
+    font-size: 85%;
+    text-align: center;
+    transition: all .5s ease-in-out;
+    height: 0;
+   }
+ 
+   .expandable:target {
+      height: 200px;
+  }
