@@ -1,7 +1,6 @@
 # Mitko.Vtori personal blog
 
-This is my first website.
-It was just a school project but after I made it, I decided to create something cool.
+This is my first website. It has helpful information, games, lots of pages & more.
 <br>
 # <a href="https://mitkovtori.github.io/Mitko.Vtori-World/">Click to see the website</a>
 ### the games page introduction ▼ ▼ ▼
