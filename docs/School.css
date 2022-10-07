@@ -44,5 +44,5 @@ strong {
    }
  
    .expandable:target {
-      height: 200px;
+      height: 250px;
   }
