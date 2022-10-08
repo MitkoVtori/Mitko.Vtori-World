@@ -21,7 +21,7 @@ h3 {
      }
    
      .expandable:target {
-        height: 250px;
+        height: 200px;
     }
 h2 {
     margin: 0;
