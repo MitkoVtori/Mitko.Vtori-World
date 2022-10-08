@@ -1,0 +1,27 @@
+body {
+  color: rgb(43, 230, 255);
+  margin: 0;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+}
+canvas {
+  width: 90%;
+}
+.canvas-wrapper{
+  border-style: solid;
+  border-color: rgb(34, 255, 244);
+  width: 90%;
+  margin: 30px;
+  padding: 0px;
+}
+.center {
+  text-align: center;
+}
+.game {
+  position: relative;
+}
+#score{
+  position: absolute;
+  left: 50px;
+  font-size: 300%;
+}
