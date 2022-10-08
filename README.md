@@ -1,4 +1,4 @@
-# Mitko.Vtori personal blog
+# Mitko.Vtori personal blo
 
 This is my first website. It has helpful information, games, lots of pages & more.
 <br>
