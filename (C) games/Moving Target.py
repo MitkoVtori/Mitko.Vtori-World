@@ -60,6 +60,8 @@ add = randint(5, 15)
 add_counter = 0
 try:
     while True:
+        if len(targets) <= 0:
+            break
         end_counter += 1
         add_counter += 1
         sleep(0.3)
@@ -75,10 +77,9 @@ try:
             list_targets()
         indexes = command.split(' ')
         try:
-            index = int(indexes[1]) + 1
+            index = int(indexes[1]) - 1
             power = int(indexes[2])
-            value = int(indexes[2])
-            radius = int(indexes[2]) + 1
+            radius = int(indexes[2])
         except IndexError:
             print("Invalid input. Try again!")
             continue
@@ -89,7 +90,7 @@ try:
             print("Invalid input. Try again!")
             continue
         if indexes[0].lower() == "shoot":
-            if index - 1 >= len(targets) or index < 0:
+            if index >= len(targets) or index < 0:
                 print("Index out of range")
                 continue
             if targets[index] - power < -5:
@@ -103,14 +104,15 @@ try:
             else:
                 print(f'- {power} power!')
         elif indexes[0].lower() == "strike":
-            if index - 1 >= len(targets) or (index - 1) + (radius - 1) >= len(targets) or index - radius < 0:
+            if index >= len(targets) or index + radius >= len(targets) or index - radius < 0:
                 print("Strike missed!")
                 continue
             try:
                 for indices in range(radius):
+                    targets.pop(index + 1)
                     targets.pop(index - 1)
-                    targets.pop(index)
-                targets.pop(index - radius)
+                    index -= 1
+                targets.pop(index)
                 list_targets()
             except IndexError:
                 print("Index out of range")
