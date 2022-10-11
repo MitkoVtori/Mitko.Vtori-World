@@ -3,6 +3,19 @@
     <head>
         <title>Mitko.Vtori Games</title>
         <link rel="icon" type="image/x-icon" href="images/games.png">
+        <style>
+             .box {
+      background: rgb(0, 225, 255);
+      overflow: hidden; 
+      line-height: 90%;
+      transition: all .10s ease-in-out;
+      height: 0;
+     }
+   
+     .box:target {
+        height: 500px;
+    }
+        </style>
     </head>
 <body>
     <h3 style="margin: 0; background-color: rgb(50, 50, 248);">
@@ -18,8 +31,28 @@
         <p>Welcome to games!</p>
         <p style="color: rgb(250, 247, 73);">List games:</p>
     </h1>
-<a href="./FlappyBird" style="margin-left: 20px"><img src="images/FlappyBird.png" style="width: 430px; height: 430px;"/> </a>
-<a href="./TETRIS" style="margin-left: 20px"><img src="images/TETRIS.png" style="width: 350px; height: 400px;"/> </a>
-<a href="./Snake" style="margin-left: 20px"><img src="images/Snake.png" style="width: 350px; height: 400px;"/> </a>
-<a href="./RED RECT" style="margin-left: 20px"><img src="images/red rect.png" style="width: 500px; height: 450px;"/> </a>
+<a href="#new"><span><button style="font-size: 1000%; background-color: rgba(80, 80, 233, 0.788); color: aqua;">NEW</button></span></a><a href="#popular"><span><button style="font-size: 1000%; background-color: rgba(80, 80, 233, 0.788); color: aqua;">POPULAR</button></span></a><a href="#old"><span><button style="font-size: 1000%; background-color: rgba(80, 80, 233, 0.788); color: aqua;">OLD</button></span></a><a href="#all"><span><button style="font-size: 1000%; background-color: rgba(80, 80, 233, 0.788); color: aqua;">ALL</button></span></a>
+
+<div class="box" id="all">
+<a href="./FlappyBird" style="margin-left: 10px"><img src="images/FlappyBird.png" style="width: 330px; height: 330px;"/> </a>
+<a href="./TETRIS" style="margin-left: 10px"><img src="images/TETRIS.png" style="width: 250px; height: 300px;"/> </a>
+<a href="./Snake" style="margin-left: 10px"><img src="images/Snake.png" style="width: 250px; height: 300px;"/> </a>
+<a href="./RED RECT" style="margin-left: 10px"><img src="images/red rect.png" style="width: 400px; height: 350px;"/> </a>
+<a href="https://replit.com/@PlayerDMGAMING/Moving-Target?v=1" style="margin-left: 10px"><img src="images/Moving Target.png" style="width: 500px; height: 350px;"/></a>
+</div>
+<div class="box" id="old">
+    <a href="./FlappyBird" style="margin-left: 20px"><img src="images/FlappyBird.png" style="width: 530px; height: 530px;"/> </a>
+    <a href="./Snake" style="margin-left: 20px"><img src="images/Snake.png" style="width: 550px; height: 600px;"/> </a>
+    </div>
+    <div class="box" id="popular">
+        <a href="./FlappyBird" style="margin-left: 10px"><img src="images/FlappyBird.png" style="width: 330px; height: 330px;"/> </a>
+        <a href="./TETRIS" style="margin-left: 10px"><img src="images/TETRIS.png" style="width: 250px; height: 300px;"/> </a>
+        <a href="./Snake" style="margin-left: 10px"><img src="images/Snake.png" style="width: 250px; height: 300px;"/> </a>
+        <a href="./RED RECT" style="margin-left: 10px"><img src="images/red rect.png" style="width: 400px; height: 350px;"/> </a>
+        </div>
+        <div class="box" id="new">
+            <a href="./TETRIS" style="margin-left: 10px"><img src="images/TETRIS.png" style="width: 250px; height: 300px;"/> </a>
+            <a href="./RED RECT" style="margin-left: 10px"><img src="images/red rect.png" style="width: 400px; height: 350px;"/> </a>
+            <a href="https://replit.com/@PlayerDMGAMING/Moving-Target?v=1" style="margin-left: 10px"><img src="images/Moving Target.png" style="width: 500px; height: 350px;"/></a>
+            </div>
 </body>
