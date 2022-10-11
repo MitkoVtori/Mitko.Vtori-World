@@ -88,7 +88,10 @@ This is my first website. It has helpful information, games, lots of pages & mor
 
 # Games
 ![games upper](https://user-images.githubusercontent.com/112943652/193805508-e2bb7d86-c10d-4f1e-84f2-05fe27235005.png)
-![games down](https://user-images.githubusercontent.com/112943652/193805529-6d6d74ed-1e98-4e5b-bd94-9248fa536c1f.png)
+![Screenshot 2022-10-11 134229](https://user-images.githubusercontent.com/112943652/195076499-42cd9173-201f-4d05-832f-33f0412ca385.png)
+![Screenshot 2022-10-11 134405](https://user-images.githubusercontent.com/112943652/195076525-9f9c07f9-90c1-47fe-af67-bb8b50b87495.png)
+![Screenshot 2022-10-11 141742](https://user-images.githubusercontent.com/112943652/195076584-a2dec6e8-c9ce-4b7c-80f6-502d8aac8494.png)
+
 
 
 <a href="https://twitter.com/intent/tweet?url=https://github.com/MitkoVtori/Mitko.Vtori-personal-blog&text=This%20project%20is%20amazing!" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 100px;"/></a>
