@@ -2,7 +2,7 @@
 
 This is my first website. It has helpful information, games, lots of pages & more.
 <br>
-[introduction & presentation](Welcome to Mitko.Vtori-World.pptx…)
+[Uploading Welcome to Mitko.Vtori-World.pptx…](hello)
 <br>
 # Here's link to my <a href="https://github.com/Mitko-Vtori-World">organization</a>
 # <a href="https://mitkovtori.github.io/Mitko.Vtori-World/">Click to see the website</a>
