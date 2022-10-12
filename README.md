@@ -1,7 +1,8 @@
-# Mitko.Vtori personal blog
+# Mitko.Vtori World
 
 This is my first website. It has helpful information, games, lots of pages & more.
 <br>
+# Here's link to my organization
 # <a href="https://mitkovtori.github.io/Mitko.Vtori-World/">Click to see the website</a>
 ### the games page introduction ▼ ▼ ▼
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
