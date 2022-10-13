@@ -61,7 +61,7 @@ This is my first website. It has helpful information, games, lots of pages & mor
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/112943652/191708715-3fc79913-d457-4136-8ade-29352904b58a.png)
+![Mitko Vtori World](https://user-images.githubusercontent.com/112943652/195579452-b1d014a0-6133-4fbd-8b52-c4dcabadf4c2.png)
 
 
 # Main page
