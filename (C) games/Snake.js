@@ -137,8 +137,4 @@ document.addEventListener("keydown", function (e) {
 });
 
 // start the game
-<<<<<<< HEAD
 requestAnimationFrame(loop);
-=======
-requestAnimationFrame(loop);
->>>>>>> c54430ce65bd9b716df8ac7e0d15383656f43d54
