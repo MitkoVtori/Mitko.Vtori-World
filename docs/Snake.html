@@ -2,25 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <style>
-      html,
-      body {
-        height: 100%;
-        margin: 0;
-      }
-
-      body {
-        background: black;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-      canvas {
-        border: 1px solid white;
-        width: 1000;
-        height: 835;
-      }
-    </style>
+    <link rel="stylesheet" href="./Snake.css" />
     <title>Mitko.Vtori Snake</title>
     <link rel="icon" type="image/x-icon" href="images/games.png" />
   </head>
@@ -29,36 +11,13 @@
     <div id="includedContent"></div>
     <canvas width="400" height="400" id="game"></canvas>
     <div>
-      <p id="score" style="margin-left: 10px; color: rgb(156, 6, 156); font-size: 40px">Score: 0</p>
-      <p style="margin-left: 10px; color: rgb(156, 6, 156); font-size: 40px">Use your keyboard</p>
-      <div>
-        <button
-          style="
-            margin-left: 15px;
-            width: 70px;
-            height: 65px;
-            font-size: 45px;
-            color: rgb(196, 67, 207);
-            background-color: rgb(0, 24, 75);
-          "
-        >
-          ▲
-        </button>
-        <button
-          style="width: 70px; height: 65px; font-size: 45px; color: rgb(196, 67, 207); background-color: rgb(0, 24, 75)"
-        >
-          ▼
-        </button>
-        <button
-          style="width: 70px; height: 65px; font-size: 45px; color: rgb(196, 67, 207); background-color: rgb(0, 24, 75)"
-        >
-          ◄
-        </button>
-        <button
-          style="width: 70px; height: 65px; font-size: 45px; color: rgb(196, 67, 207); background-color: rgb(0, 24, 75)"
-        >
-          ►
-        </button>
+      <p id="score" class="control-label">Score: 0</p>
+      <p class="control-label">Use your keyboard</p>
+      <div class="control-btns-container">
+        <button class="control-btn">▲</button>
+        <button class="control-btn">▼</button>
+        <button class="control-btn">◄</button>
+        <button class="control-btn">►</button>
       </div>
     </div>
     <br />
