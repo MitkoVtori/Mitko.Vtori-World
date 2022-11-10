@@ -10,7 +10,7 @@ This is my first website. It has helpful information, games, lots of pages & mor
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page introduction▲ ▲ ▲
 ### List games:
-<ul>
+<ul> 
    <li>
      <a href="https://mitko-vtori-world.github.io/Mitko-Vtori-World/Snake">Snake game</a> 
       <ul> 
