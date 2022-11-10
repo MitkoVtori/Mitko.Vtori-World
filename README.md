@@ -5,14 +5,14 @@ This is my first website. It has helpful information, games, lots of pages & mor
 ### 🎞 [Presentation & Introduction](https://github.com/MitkoVtori/Mitko.Vtori-World/files/9764729/Welcome.to.Mitko.Vtori-World.pptx)
 
 # Here's link to my <a href="https://github.com/Mitko-Vtori-World">organization</a>
-# <a href="https://mitkovtori.github.io/Mitko.Vtori-World/">Click to see the website</a>
+# <a href="https://mitko-vtori-world.github.io/Mitko-Vtori-World/">Click to see the website</a>
 ### the games page introduction ▼ ▼ ▼
 [![Watch the video](https://user-images.githubusercontent.com/112943652/193406100-1b238fa9-0cd0-4bb7-b4d3-b3bc418c1f07.png)](https://www.youtube.com/watch?v=evJbAwi47F0)
 ### the games page introduction▲ ▲ ▲
 ### List games:
-<ul>
+<ul> 
    <li>
-     <a href="https://mitkovtori.github.io/Mitko.Vtori-World/Snake">Snake game</a> 
+     <a href="https://mitko-vtori-world.github.io/Mitko-Vtori-World/Snake">Snake game</a> 
       <ul> 
        <li style="margin-left: 150px">
          when the game start, use your keyboard to play the game. (not working on phones)
@@ -21,7 +21,7 @@ This is my first website. It has helpful information, games, lots of pages & mor
     <br>
    </li>
   <li>
-     <a href="https://mitkovtori.github.io/Mitko.Vtori-World/FlappyBird">FlappyBird</a>
+     <a href="https://mitko-vtori-world.github.io/Mitko-Vtori-World/FlappyBird">FlappyBird</a>
       <ul> 
        <li>
           working only with mouse.
@@ -30,7 +30,7 @@ This is my first website. It has helpful information, games, lots of pages & mor
   </li>
  <br>
  <li>
-   <a href="https://mitkovtori.github.io/Mitko.Vtori-World/TETRIS">Tetris</a>
+   <a href="https://mitko-vtori-world.github.io/Mitko-Vtori-World/TETRIS">Tetris</a>
     <ul>
      <li>
      use your keyboard to play(working only with keyboard).
@@ -39,7 +39,7 @@ This is my first website. It has helpful information, games, lots of pages & mor
  </li>
  <br>
  <li>
-   <a href="https://mitkovtori.github.io/Mitko.Vtori-World/RED%20RECT">Red Rect</a>
+   <a href="https://mitko-vtori-world.github.io/Mitko-Vtori-World/RED%20RECT">Red Rect</a>
     <ul>
       <li>
         can only be played with keyboard
